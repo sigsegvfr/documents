@@ -4,7 +4,7 @@
 Le 1 février 2017, les membres fondateurs de l’association dénommée
 **sigsegv** se sont réunis en assemblée constitutive.
 
-Etaient présentes les personnes suivantes :
+Étaient présentes les personnes suivantes :
 
 -   M Charles-Henri Bruyand ;
 
