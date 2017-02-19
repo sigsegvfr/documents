@@ -1,9 +1,6 @@
 <span>  
 </span>
 
-<span>  
-</span>
-
 Le 1 février 2017, les membres fondateurs de l’association dénommée
 **sigsegv** se sont réunis en assemblée constitutive.
 
@@ -80,4 +77,3 @@ publication au Journal Officiel).
 Fait à Arcueil, le 1 février 2017.
 
 Signature :
-
